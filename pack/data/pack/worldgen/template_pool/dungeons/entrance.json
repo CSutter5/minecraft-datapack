@@ -1,0 +1,21 @@
+{
+	"name": "pack:dungeons/entrance",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 1,
+		"element": {
+			"location": "pack:dungeons/entrance/upper",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 100,
+		"element": {
+			"location": "pack:dungeons/entrance/lower",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}]
+}

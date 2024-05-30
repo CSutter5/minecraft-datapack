@@ -1,0 +1,37 @@
+{
+	"name": "pack:village/village",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 1,
+		"element": {
+			"location": "pack:village/village1",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 1,
+		"element": {
+			"location": "pack:village/village2",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 1,
+		"element": {
+			"location": "pack:village/village3",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 1,
+		"element": {
+			"location": "pack:village/village4",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}]
+}
