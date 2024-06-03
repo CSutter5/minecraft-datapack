@@ -1,0 +1,147 @@
+{
+    "pools": [
+      {
+        "rolls": {
+            "min": 1,
+            "max": 5
+        },
+        "entries": [
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:leather",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:leather_boots",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:leather_leggings",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:leather_chestplate",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:leather_helmet",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:leather_horse_armor",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:bread",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:name_tag",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:apple",
+                "weight": 2,
+                    "functions": [{
+                        "function": "minecraft:set_count",
+                        "count": {
+                            "min": 1,
+                            "max": 15
+                        }
+                    }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:beetroot",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:enchanted_book",
+                "weight": 4,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }, {
+                    "function": "minecraft:set_name",
+                    "entity": "this",
+                    "name": "Weapons Ticket"
+                }]
+            }
+        ]
+    }]
+  }

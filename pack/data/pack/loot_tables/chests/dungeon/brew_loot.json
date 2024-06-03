@@ -1,0 +1,292 @@
+{
+    "type": "minecraft:chest",
+    "pools": [{
+        "rolls": {
+            "min": 1,
+            "max": 5
+        },
+        "entries": [
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:pufferfish",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:brewing_stand",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:nautilus_shell",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:name_tag",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:enchanted_book",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }, {
+                    "function": "minecraft:set_name",
+                    "entity": "this",
+                    "name": "Weapons Ticket"
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:gunpowder",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:redstone",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:spider_eye",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:glowstone_dust",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:cauldron",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:glass_bottle",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:rabbit_foot",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:nether_wart",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:ghast_tear",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:glistering_melon_slice",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:golden_carrot",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:dragon_breath",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:fermented_spider_eye",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:magma_cream",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:blaze_powder",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:sugar",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:bowl",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:phantom_membrane",
+                "weight": 2,
+                "functions": [{
+                    "function": "minecraft:set_count",
+                    "count": {
+                        "min": 1,
+                        "max": 15
+                    }
+                }]
+            }
+        ]
+    }]
+}
+  
