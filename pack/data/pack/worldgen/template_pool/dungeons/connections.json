@@ -290,6 +290,126 @@
 				"projection": "rigid",
 				"element_type": "minecraft:single_pool_element"
 			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_21",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_22",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_23",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_24",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_25",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_26",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_27",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_28",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_29",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_30",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_31",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_32",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_33",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_34",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}, {
+			"weight": 3,
+			"element": {
+				"location": "pack:dungeons/connections/room_35",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
 		}
 	]
 }
